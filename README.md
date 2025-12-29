@@ -25,8 +25,3 @@ This project is built using a robust monolithic architecture focusing on data in
 - **Frontend:** Blade Templates with Bootstrap
 - **Database:** MySQL (Relational Schema)
 - **API Security:** Laravel Sanctum
-
----
-
-## 💻 Local Setup
-
