@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'add_online_class' => 'Add New Online Class',
+    'add_offline_class' => 'Add New Offline Class',
+    'delete_class' => 'Delete Class',
+    'class_title' => 'Class Title',
+    'class_date' => 'Class Date and Time',
+    'class_duration' => 'Class Duration (in minutes)',
+    'online_classes_list' => 'Online Classes List',
+    'grade' => 'Grade',
+    'classroom' => 'Classroom',
+    'section' => 'Section',
+    'teacher' => 'Teacher',
+    'start_date' => 'Start Date',
+    'class_time' => 'Class Time',
+    'class_link' => 'Class Link',
+    'join_now' => 'Join Now',
+    'actions' => 'Actions',
+    'delete' => 'Delete',
+    'close' => 'Close',
+    'submit' => 'Submit',
+    'warning_delete' => 'Are you sure you want to delete',
+    'meeting_id' => 'Meeting ID',
+    'password' => 'Meeting Password',
+    'start_link' => 'Start Link',
+    'student_join_link' => 'Student Join Link',
+];

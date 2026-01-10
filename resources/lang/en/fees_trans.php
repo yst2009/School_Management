@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'title_page' => 'School Fees',
+    'edit_title_page' => 'Edit School Fees',
+    'add_fee' => 'Add New Fee',
+    'name' => 'Name',
+    'amount' => 'Amount',
+    'grade' => 'Grade',
+    'classroom' => 'Classroom',
+    'academic_year' => 'Academic Year',
+    'notes' => 'Notes',
+    'processes' => 'Processes',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'view' => 'View',
+    'name_ar' => 'Name in Arabic',
+    'name_en' => 'Name in English',
+    'fee_type' => 'Fee Type',
+    'school_fees' => 'School Fees',
+    'bus_fees' => 'Bus Fees',
+    'confirm' => 'Confirm',
+    'delete_fee' => 'Delete Fee',
+    'delete_confirmation' => 'Are you sure you want to delete this fee?',
+];
